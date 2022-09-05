@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var backButton: UIButton!
     @IBOutlet weak var nextButton: UIButton!
     
-    let images = ["img01", "img02", "img03"]
+    let images = ["img01.jpg", "img02.jpg", "img03.jpg"]
     var i = 0
     
     var timer: Timer!
