@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        imageView.image = UIImage(named: "img01")
+        imageView.image = UIImage(named: "img01.jpg")
     }
     
     // 戻るボタンを押したときの処理
